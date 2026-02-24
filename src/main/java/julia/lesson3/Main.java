@@ -17,7 +17,7 @@ public class Main {
     System.out.println(julia.getHobby());
     julia.printInfo(); //Вывод всей информации сразу
 
-    // Второй объект - пустая анкета для человека по имени Анна
+    // Второй объект - пустая анкета для человека по имени Аннад
     PersonalCardJR anna = new PersonalCardJR();  // имя переменной
     anna.setName("Anna");
     anna.setAge(25);
